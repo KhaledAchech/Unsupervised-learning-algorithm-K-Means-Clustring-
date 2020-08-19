@@ -1,0 +1,1 @@
+This is just a simple exemple of implementing K-Means Clustring 
